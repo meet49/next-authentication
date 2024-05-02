@@ -104,7 +104,7 @@ const route = useRouter()
               </div>
             </form>
             <p className="text-center mt-4">
-              Do't have an account?{" "}
+              Do&apos;t have an account?{" "}
               <Link href="/signup" className="text-blue-500 hover:underline">
                 Signup
               </Link>
